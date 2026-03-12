@@ -1,0 +1,312 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.10 2d4cfc48",
+  "osm3s": {
+    "timestamp_osm_base": "2026-03-05T16:03:35Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1457151225,
+      "lat": 40.848373,
+      "lon": 14.4705152,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Casa di cura Trusso"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1462176201,
+      "lat": 40.8329738,
+      "lon": 14.4998189,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clinica Santa Lucia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2311452925,
+      "lat": 40.8150572,
+      "lon": 14.3444962,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Guardia medica"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2452231029,
+      "lat": 40.6305121,
+      "lon": 14.5402099,
+      "tags": {
+        "amenity": "hospital",
+        "check_date": "2025-11-07",
+        "name": "Guardia Medica"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2778473426,
+      "lat": 40.8602336,
+      "lon": 14.5274927,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Casa di cura La Madonnina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4174698337,
+      "lat": 40.8688625,
+      "lon": 14.2462918,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Centro Traumatologico Ortopedico"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4177163443,
+      "lat": 40.8489388,
+      "lon": 14.2316169,
+      "tags": {
+        "amenity": "hospital",
+        "check_date": "2025-11-02",
+        "healthcare": "hospital",
+        "name": "Ospedale Pediatrico Santobono-Pausillipon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7619525386,
+      "lat": 40.8306985,
+      "lon": 14.3122439,
+      "tags": {
+        "addr:city": "Napoli",
+        "addr:housenumber": "2",
+        "addr:postcode": "80146",
+        "addr:street": "Via Bernardo Quaranta",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Azienda Sanitaria Locale NA1 - Distr. 52",
+        "website": "https://www.aslnapoli1centro.it/uopc32/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7788139070,
+      "lat": 40.8540895,
+      "lon": 14.2549082,
+      "tags": {
+        "addr:city": "Napoli",
+        "addr:housenumber": "50",
+        "addr:postcode": "80138",
+        "addr:street": "Via Maria Longo",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ospedale Santa Maria del Popolo degli Incurabili",
+        "wikidata": "Q1030158",
+        "wikipedia": "it:Complesso degli Incurabili"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7788152939,
+      "lat": 40.8512633,
+      "lon": 14.2437395,
+      "tags": {
+        "addr:city": "Napoli",
+        "addr:housenumber": "1",
+        "addr:postcode": "80135",
+        "addr:street": "Via Domenico Cotugno",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ex Ospedale Clinico Gesù e Maria",
+        "operator": "Azienda Sanitaria Locale Napoli 1 centro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7931893843,
+      "lat": 40.9934992,
+      "lon": 14.2538888,
+      "tags": {
+        "access": "private",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ospedale Marines USA",
+        "name:en": "Hospital Marines USA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9329042162,
+      "lat": 40.9288609,
+      "lon": 14.1963549,
+      "tags": {
+        "amenity": "hospital",
+        "contact:housenumber": "316",
+        "contact:street": "Corso Campano",
+        "email": "distretto37@aslnapoli2nord.it",
+        "emergency": "yes",
+        "healthcare": "centre",
+        "internet_access": "wlan",
+        "name": "ASL Napoli 2 Nord - Distretto Sanitario 37 di Giugliano in Campania",
+        "not:operator:wikidata": "Q3631467",
+        "operator": "ASL Napoli 2 Nord",
+        "operator:type": "public",
+        "phone": "+3908118840748;+3908118840730;+390818955250;+390813340117",
+        "vaccination": "yes",
+        "website": "https://www.aslnapoli2nord.it/strutture/luoghi/distretto-sanitario-37/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9966553303,
+      "lat": 40.8775836,
+      "lon": 14.2708869,
+      "tags": {
+        "addr:city": "Napoli",
+        "addr:housenumber": "232",
+        "addr:postcode": "80141",
+        "addr:street": "Calata Capodichino",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ASL Napoli 1 Centro",
+        "operator": "ASL",
+        "operator:wikidata": "Q3631467"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10314639206,
+      "lat": 41.0703192,
+      "lon": 14.3494854,
+      "tags": {
+        "addr:city": "Caserta",
+        "addr:housenumber": "6",
+        "addr:postcode": "81100",
+        "addr:street": "Via San Gennaro",
+        "addr:unit": "Centro LGBTI+ di Caserta",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "healthcare:speciality": "hiv",
+        "name": "Checkpoint®",
+        "operator": "Rain Arcigay Caserta ODV",
+        "operator:type": "community",
+        "website": "http://checkpoint.lgbt",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10916216696,
+      "lat": 41.0237551,
+      "lon": 14.4954858,
+      "tags": {
+        "addr:city": "Arienzo",
+        "addr:street": "Trav. I Corso Europa",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "ASL Arienzo 1 - Distretto Caserta",
+        "operator": "ASL",
+        "operator:type": "public",
+        "operator:wikidata": "Q3631467"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11982580652,
+      "lat": 40.8258193,
+      "lon": 14.1929243,
+      "tags": {
+        "addr:city": "Napoli",
+        "addr:postcode": "80125",
+        "addr:street": "P.Le Tecchio",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "A.S.L Napoli 1 Centro - Distretto 45 - Centro Clinico \"La piramide\" U.O S.E.R.T.",
+        "operator": "ASL",
+        "operator:type": "public",
+        "operator:wikidata": "Q3631467",
+        "website": "https://www.aslnapoli1centro.it/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12455635626,
+      "lat": 40.9175627,
+      "lon": 14.1855252,
+      "tags": {
+        "addr:city": "Villaricca",
+        "addr:housenumber": "618",
+        "addr:postcode": "80010",
+        "addr:street": "Corso Italia",
+        "amenity": "hospital",
+        "email": "distretto39@aslnapoli2nord.it",
+        "emergency": "yes",
+        "healthcare": "centre",
+        "internet_access": "wlan",
+        "name": "ASL Napoli 2 Nord - Distretto Sanitario 39 di Villaricca",
+        "not:operator:wikidata": "Q3631467",
+        "operator": "ASL Napoli 2 Nord",
+        "operator:type": "public",
+        "vaccination": "yes",
+        "website": "https://www.aslnapoli2nord.it/strutture/luoghi/distretto-sanitario-39/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12560767058,
+      "lat": 40.9135119,
+      "lon": 14.1476439,
+      "tags": {
+        "addr:city": "Qualiano",
+        "addr:street": "Via Corigliano",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "healthcare:speciality": "spettro_autistico",
+        "name": "CDSA BlunAuti - Centro Disturbo dello Spettro Autistico",
+        "operator": "ASL",
+        "operator:type": "public",
+        "operator:wikidata": "Q3631467"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12999974520,
+      "lat": 40.8155738,
+      "lon": 14.1999352,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "emergency_ward_entrance",
+        "healthcare": "hospital",
+        "name": "Pronto Soccorso"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13393705989,
+      "lat": 40.8490411,
+      "lon": 14.2321381,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "emergency_ward_entrance",
+        "healthcare": "hospital",
+        "name": "Pronto Soccorso"
+      }
+    }
+  ]
+}

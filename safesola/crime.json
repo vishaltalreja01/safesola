@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Porto - Zona Industriale",
+    "lat": 40.8465,
+    "lng": 14.2820,
+    "crime_count": 6
+  },
+  {
+    "name": "Arenella - Medaglie d'Oro",
+    "lat": 40.8520,
+    "lng": 14.2250,
+    "crime_count": 4
+  },
+  {
+    "name": "Secondigliano - Miano",
+    "lat": 40.8885,
+    "lng": 14.2515,
+    "crime_count": 2
+  },
+  {
+    "name": "Casavatore - Casoria",
+    "lat": 40.9030,
+    "lng": 14.2750,
+    "crime_count": 2
+  },
+  {
+    "name": "Chiaiano Metro",
+    "lat": 40.8845,
+    "lng": 14.2120,
+    "crime_count": 2
+  },
+  {
+    "name": "Quarto Flegreo",
+    "lat": 40.8760,
+    "lng": 14.1350,
+    "crime_count": 2
+  },
+  {
+    "name": "Agnano Terme",
+    "lat": 40.8285,
+    "lng": 14.1685,
+    "crime_count": 2
+  },
+  {
+    "name": "San Giovanni a Teduccio",
+    "lat": 40.8380,
+    "lng": 14.3020,
+    "crime_count": 2
+  },
+  {
+    "name": "Fuorigrotta - Stadio",
+    "lat": 40.8250,
+    "lng": 14.1950,
+    "crime_count": 1
+  },
+  {
+    "name": "Bagnoli",
+    "lat": 40.8150,
+    "lng": 14.1700,
+    "crime_count": 1
+  }
+]

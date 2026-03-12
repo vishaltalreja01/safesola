@@ -1,0 +1,3845 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.10 2d4cfc48",
+  "osm3s": {
+    "timestamp_osm_base": "2026-03-05T16:11:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 25399515,
+      "lat": 40.9732828,
+      "lon": 14.2183837,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Aversa",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "platform",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309006",
+        "website": "https://www.rfi.it/it/stazioni/aversa.html",
+        "wheelchair": "yes",
+        "wikidata": "Q3968936",
+        "wikimedia_commons": "Category:Aversa_train_station",
+        "wikipedia": "it:Stazione di Aversa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 229162892,
+      "lat": 40.845991,
+      "lon": 14.2872782,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Gianturco",
+        "network": "Circumvesuviana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3971282",
+        "wikipedia": "it:Stazione di Via Gianturco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 250312780,
+      "lat": 40.7852651,
+      "lon": 14.537646,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Cangiani",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "light_rail",
+        "wheelchair": "no",
+        "wikidata": "Q16610111",
+        "wikipedia": "it:Stazione di Cangiani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 250313706,
+      "lat": 40.7606307,
+      "lon": 14.534329,
+      "tags": {
+        "light_rail": "yes",
+        "name": "San Pietro",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "light_rail",
+        "wheelchair": "no",
+        "wikidata": "Q16609820",
+        "wikipedia": "it:Stazione di San Pietro (Circumvesuviana)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253934558,
+      "lat": 40.8733537,
+      "lon": 14.4262847,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Villa Augustea",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "light_rail",
+        "wikidata": "Q3970089",
+        "wikipedia": "it:Stazione di Villa Augustea"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253938010,
+      "lat": 40.8702695,
+      "lon": 14.4618286,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Rione Trieste",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "light_rail",
+        "wikidata": "Q3970674",
+        "wikipedia": "it:Stazione di Rione Trieste"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253939142,
+      "lat": 40.8673467,
+      "lon": 14.3894802,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Madonna Dell'Arco",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "light_rail",
+        "wikidata": "Q3970006",
+        "wikipedia": "it:Stazione di Madonna dell'Arco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254023288,
+      "lat": 40.8430152,
+      "lon": 14.4923305,
+      "tags": {
+        "light_rail": "yes",
+        "name": "San Leonardo",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "light_rail",
+        "wikidata": "Q3970820",
+        "wikipedia": "it:Stazione di San Leonardo (San Giuseppe Vesuviano)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 278841425,
+      "lat": 40.8580791,
+      "lon": 14.2818622,
+      "tags": {
+        "level": "-1",
+        "light_rail": "yes",
+        "name": "Napoli Centro Direzionale",
+        "network": "Circumvesuviana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2002",
+        "station": "light_rail",
+        "train": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 281159312,
+      "lat": 40.8621065,
+      "lon": 14.3842104,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Guindazzi",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "light_rail",
+        "wikidata": "Q3969771",
+        "wikipedia": "it:Stazione di Guindazzi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 282074327,
+      "lat": 40.9522116,
+      "lon": 14.5314388,
+      "tags": {
+        "name": "Camposano",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q16608924",
+        "wikipedia": "it:Stazione di Camposano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 282075558,
+      "lat": 40.9204238,
+      "lon": 14.412245,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Castelcisterna",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q16608993",
+        "wikipedia": "it:Stazione di Castelcisterna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 282078115,
+      "lat": 40.9134619,
+      "lon": 14.3831037,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Pratola Ponte",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970608",
+        "wikipedia": "it:Stazione di Pratola Ponte"
+      }
+    },
+    {
+      "type": "node",
+      "id": 296077447,
+      "lat": 40.76615,
+      "lon": 14.4177616,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Leopardi",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3969946",
+        "wikipedia": "it:Stazione di Leopardi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300386895,
+      "lat": 40.7382268,
+      "lon": 14.4850746,
+      "tags": {
+        "name": "Moregine",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970226",
+        "wikipedia": "it:Stazione di Moregine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 324415153,
+      "lat": 40.8907119,
+      "lon": 14.223476,
+      "tags": {
+        "name": "Chiaiano",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3667404",
+        "wikipedia": "it:Chiaiano (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 324559907,
+      "lat": 40.8411859,
+      "lon": 14.2327759,
+      "tags": {
+        "funicular": "yes",
+        "name": "Palazzolo",
+        "opening_hours": "Mo, Tu 07:00-22:30; We, Th, Su 07:00-00:30, Fr, Sa 07:00-02:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular"
+      }
+    },
+    {
+      "type": "node",
+      "id": 324559908,
+      "lat": 40.8423226,
+      "lon": 14.2320228,
+      "tags": {
+        "funicular": "yes",
+        "name": "Cimarosa",
+        "opening_hours": "Mo, Tu 07:00-22:30; We, Th, Su 07:00-00:30, Fr, Sa 07:00-02:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular"
+      }
+    },
+    {
+      "type": "node",
+      "id": 324559938,
+      "lat": 40.8389341,
+      "lon": 14.2341839,
+      "tags": {
+        "funicular": "yes",
+        "name": "Corso Vittorio Emanuele",
+        "opening_hours": "Mo, Tu 07:00-22:30; We, Th, Su 07:00-00:30, Fr, Sa 07:00-02:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular"
+      }
+    },
+    {
+      "type": "node",
+      "id": 324560877,
+      "lat": 40.8381198,
+      "lon": 14.2346978,
+      "tags": {
+        "funicular": "yes",
+        "name": "Parco Margherita",
+        "opening_hours": "Mo, Tu 07:00-22:30; We, Th, Su 07:00-00:30, Fr, Sa 07:00-02:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular",
+        "wikidata": "Q27050198"
+      }
+    },
+    {
+      "type": "node",
+      "id": 324565702,
+      "lat": 40.8442768,
+      "lon": 14.2361784,
+      "tags": {
+        "funicular": "yes",
+        "name": "Morghen",
+        "network": "Funicolare di Montesanto",
+        "opening_hours": "07:00-22:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular",
+        "wheelchair": "no",
+        "wikidata": "Q3754453",
+        "wikipedia": "it:Funicolare di Montesanto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 324565704,
+      "lat": 40.8461024,
+      "lon": 14.2417948,
+      "tags": {
+        "departures_board": "no",
+        "funicular": "yes",
+        "name": "Corso Vittorio Emanuele",
+        "network": "Funicolare di Montesanto",
+        "opening_hours": "07:00-22:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "short_name": "Corso V. Emanuele",
+        "station": "funicular",
+        "wikidata": "Q3754453",
+        "wikipedia": "it:Funicolare di Montesanto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 324565705,
+      "lat": 40.8472171,
+      "lon": 14.2451762,
+      "tags": {
+        "funicular": "yes",
+        "name": "Montesanto",
+        "network": "Funicolare di Montesanto",
+        "opening_hours": "07:00-22:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular",
+        "wheelchair": "no",
+        "wikidata": "Q3754453",
+        "wikipedia": "it:Funicolare di Montesanto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 324825150,
+      "lat": 40.9943228,
+      "lon": 14.4192148,
+      "tags": {
+        "addr:street": "Via Stazione",
+        "alt_name": "Stazione di Cancello Scalo",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Cancello",
+        "network": "RFI",
+        "network:wikidata": "Q1060049",
+        "operator": "RFI",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "station": "train",
+        "train": "yes",
+        "uic_ref": "8309213",
+        "website": "https://www.rfi.it/it/stazioni/cancello.html",
+        "wikidata": "Q745075",
+        "wikimedia_commons": "Category:Cancello_train_station",
+        "wikipedia": "it:Stazione di Cancello"
+      }
+    },
+    {
+      "type": "node",
+      "id": 324834723,
+      "lat": 40.9235939,
+      "lon": 14.5251025,
+      "tags": {
+        "name": "Nola",
+        "network": "RFI",
+        "network:wikidata": "Q1060049",
+        "operator": "RFI",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309700",
+        "website": "https://www.rfi.it/it/stazioni/nola.html",
+        "wikidata": "Q3970310",
+        "wikipedia": "it:Stazione di Nola (RFI)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 325239246,
+      "lat": 40.8429135,
+      "lon": 14.2065388,
+      "tags": {
+        "name": "Piave",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3970473",
+        "wikipedia": "it:Stazione di Piave"
+      }
+    },
+    {
+      "type": "node",
+      "id": 325240435,
+      "lat": 40.8439578,
+      "lon": 14.2006167,
+      "tags": {
+        "name": "Soccavo",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3971007",
+        "wikipedia": "it:Stazione di Soccavo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 325241055,
+      "lat": 40.8450687,
+      "lon": 14.1941085,
+      "tags": {
+        "name": "Traiano",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3971172",
+        "wikipedia": "it:Stazione di Traiano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 325241710,
+      "lat": 40.8540341,
+      "lon": 14.1719378,
+      "tags": {
+        "name": "La Trencia",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969897",
+        "wikipedia": "it:Stazione di La Trencia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 326209133,
+      "lat": 40.8328497,
+      "lon": 14.1015092,
+      "tags": {
+        "addr:city": "Arco felice",
+        "addr:postcode": "80078",
+        "addr:street": "Via Raimondo Anechinno",
+        "internet_access": "no",
+        "interval": "20",
+        "name": "Arco Felice",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3968891",
+        "wikipedia": "it:Stazione di Arco Felice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 329653476,
+      "lat": 40.8714621,
+      "lon": 14.0589519,
+      "tags": {
+        "name": "Licola",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969956",
+        "wikipedia": "it:Stazione di Licola"
+      }
+    },
+    {
+      "type": "node",
+      "id": 329659352,
+      "lat": 40.8631384,
+      "lon": 14.0480777,
+      "tags": {
+        "name": "Marina di Licola",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3970049",
+        "wikipedia": "it:Stazione di Marina di Licola"
+      }
+    },
+    {
+      "type": "node",
+      "id": 329701822,
+      "lat": 40.8151034,
+      "lon": 14.1667879,
+      "tags": {
+        "name": "Bagnoli-Città della Scienza",
+        "network": "Cumana",
+        "operator": "EAV",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3968948",
+        "wikipedia": "it:Stazione di Bagnoli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332742385,
+      "lat": 40.9491369,
+      "lon": 14.2474359,
+      "tags": {
+        "alt_name": "Stazione di Sant'Antimo",
+        "name": "Sant'Antimo-Sant'Arpino",
+        "network": "RFI",
+        "network:wikidata": "Q1060049",
+        "operator": "RFI",
+        "public_transport": "station",
+        "railway": "station",
+        "short_name": "S.Antimo-S.Arpino",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309007",
+        "website": "https://www.rfi.it/it/stazioni/s-antimo-s-arpino.html",
+        "wikidata": "Q17637550",
+        "wikimedia_commons": "Category:Sant%E2%80%99Antimo-Sant%E2%80%99Arpino_train_station",
+        "wikipedia": "it:Stazione di Sant'Antimo-Sant'Arpino"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434762989,
+      "lat": 40.8439185,
+      "lon": 14.2317452,
+      "tags": {
+        "name": "Vanvitelli",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q4008656",
+        "wikipedia": "it:Vanvitelli (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434763004,
+      "lat": 40.8463367,
+      "lon": 14.2251237,
+      "tags": {
+        "name": "Quattro Giornate",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3927345",
+        "wikipedia": "it:Quattro Giornate (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434763015,
+      "lat": 40.8550584,
+      "lon": 14.2423127,
+      "tags": {
+        "name": "Materdei",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3851750",
+        "wikipedia": "it:Materdei (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434763023,
+      "lat": 40.8534244,
+      "lon": 14.2516971,
+      "tags": {
+        "name": "Museo",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3867568",
+        "wikipedia": "it:Museo (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434763027,
+      "lat": 40.8489416,
+      "lon": 14.2501201,
+      "tags": {
+        "departures_board": "realtime",
+        "name": "Dante",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3702333",
+        "wikipedia": "it:Dante (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434789470,
+      "lat": 40.8245648,
+      "lon": 14.1932039,
+      "tags": {
+        "name": "Mostra - Stadio Maradona",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3970236",
+        "wikimedia_commons": "Category:Mostra train station",
+        "wikipedia": "it:Stazione di Mostra-Stadio Maradona"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434789521,
+      "lat": 40.8176973,
+      "lon": 14.1763585,
+      "tags": {
+        "name": "Agnano",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3968832",
+        "wikipedia": "it:Stazione di Agnano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 435104388,
+      "lat": 40.8559498,
+      "lon": 14.2250259,
+      "tags": {
+        "name": "Montedonzelli",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3862238",
+        "wikipedia": "it:Montedonzelli (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 595644484,
+      "lat": 40.7688312,
+      "lon": 14.4612814,
+      "tags": {
+        "name": "Boscotrecase",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3969103",
+        "wikipedia": "it:Stazione di Boscotrecase"
+      }
+    },
+    {
+      "type": "node",
+      "id": 595644485,
+      "lat": 40.8665289,
+      "lon": 14.2931903,
+      "tags": {
+        "name": "Poggioreale",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970513",
+        "wikipedia": "it:Stazione di Poggioreale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 595644487,
+      "lat": 40.793413,
+      "lon": 14.3698022,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Torre del Greco",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3971150",
+        "wikipedia": "it:Stazione di Torre del Greco (Circumvesuviana)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 595644496,
+      "lat": 40.8878826,
+      "lon": 14.3298069,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Casoria Arpino-Volla",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3971351",
+        "wikipedia": "it:Stazione di Casoria Arpino-Volla"
+      }
+    },
+    {
+      "type": "node",
+      "id": 595644500,
+      "lat": 40.8265713,
+      "lon": 14.5003668,
+      "tags": {
+        "name": "Casilli",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q16608975",
+        "wikipedia": "it:Stazione di Casilli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 595644513,
+      "lat": 40.8035814,
+      "lon": 14.5320255,
+      "tags": {
+        "name": "Flocco",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q16609193",
+        "wikipedia": "it:Stazione di Flocco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 614419534,
+      "lat": 40.8929397,
+      "lon": 14.2398356,
+      "tags": {
+        "name": "Piscinola-Scampia",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3905738",
+        "wikipedia": "it:Piscinola-Scampia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663077724,
+      "lat": 40.8268186,
+      "lon": 14.2045656,
+      "tags": {
+        "name": "Lala",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3826234",
+        "wikipedia": "it:Lala (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663078054,
+      "lat": 40.830597,
+      "lon": 14.2173675,
+      "tags": {
+        "name": "Mergellina",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "it.wikipedia",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3855118",
+        "wikipedia": "it:Mergellina (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663078056,
+      "lat": 40.8261854,
+      "lon": 14.1983167,
+      "tags": {
+        "name": "Augusto",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3629576",
+        "wikipedia": "it:Augusto (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 702973631,
+      "lat": 40.8258786,
+      "lon": 14.2129081,
+      "tags": {
+        "funicular": "yes",
+        "name": "Manzoni",
+        "network": "Funicolare di Mergellina",
+        "opening_hours": "07:00-22:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular"
+      }
+    },
+    {
+      "type": "node",
+      "id": 702973835,
+      "lat": 40.8257591,
+      "lon": 14.2145547,
+      "tags": {
+        "funicular": "yes",
+        "name": "Parco Angelina",
+        "network": "Funicolare di Mergellina",
+        "opening_hours": "07:00-22:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular"
+      }
+    },
+    {
+      "type": "node",
+      "id": 702973992,
+      "lat": 40.8260538,
+      "lon": 14.2176736,
+      "tags": {
+        "funicular": "yes",
+        "name": "S.Antonio",
+        "network": "Funicolare di Mergellina",
+        "opening_hours": "07:00-22:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular"
+      }
+    },
+    {
+      "type": "node",
+      "id": 702974193,
+      "lat": 40.8263525,
+      "lon": 14.2194753,
+      "tags": {
+        "funicular": "yes",
+        "name": "Mergellina",
+        "network": "Funicolare di Mergellina",
+        "opening_hours": "07:00-22:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 972220234,
+      "lat": 40.8652869,
+      "lon": 14.1435942,
+      "tags": {
+        "name": "Pisani",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3970501",
+        "wikipedia": "it:Stazione di Pisani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 972225049,
+      "lat": 40.8802969,
+      "lon": 14.1361829,
+      "tags": {
+        "name": "Quarto",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3970619",
+        "wikipedia": "it:Stazione di Quarto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1037516419,
+      "lat": 40.879101,
+      "lon": 14.1259153,
+      "tags": {
+        "name": "Quarto Officina",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3970621",
+        "wikipedia": "it:Stazione di Quarto Officina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1090940332,
+      "lat": 40.8279208,
+      "lon": 14.2017898,
+      "tags": {
+        "layer": "-1",
+        "name": "Fuorigrotta",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3969667",
+        "wikipedia": "it:Stazione di Fuorigrotta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1215079672,
+      "lat": 41.0685258,
+      "lon": 14.3282362,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Caserta",
+        "network": "RFI",
+        "network:wikidata": "Q1060049",
+        "operator": "RFI",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "8309211",
+        "station": "train",
+        "train": "yes",
+        "website": "https://www.rfi.it/it/stazioni/caserta.html",
+        "wheelchair": "yes",
+        "wikidata": "Q3969276",
+        "wikimedia_commons": "Category:Caserta train station",
+        "wikipedia": "it:Stazione di Caserta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1306185157,
+      "lat": 40.8417682,
+      "lon": 14.3002213,
+      "tags": {
+        "name": "San Giovanni a Teduccio",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970802",
+        "wikipedia": "it:Stazione di San Giovanni a Teduccio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1338235385,
+      "lat": 40.8203083,
+      "lon": 14.183488,
+      "tags": {
+        "name": "Zoo-Edenlandia",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3971386",
+        "wikipedia": "it:Stazione di Zoo-Edenlandia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1338235386,
+      "lat": 40.8172505,
+      "lon": 14.1600761,
+      "tags": {
+        "name": "Dazio",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969513",
+        "wikipedia": "it:Stazione di Dazio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1338239162,
+      "lat": 40.8206808,
+      "lon": 14.135198,
+      "tags": {
+        "name": "Gerolomini",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969723",
+        "wikipedia": "it:Stazione di Gerolomini"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1428260807,
+      "lat": 40.8435936,
+      "lon": 14.2555156,
+      "tags": {
+        "name": "Università",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "http://it.wikipedia.org/wiki/Stazione_Universit%C3%A0",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q4005876",
+        "wikipedia": "it:Università (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1449317329,
+      "lat": 40.7460106,
+      "lon": 14.5230226,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Scafati",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309811",
+        "website": "https://www.rfi.it/it/stazioni/scafati.html",
+        "wheelchair": "limited",
+        "wikidata": "Q3970922",
+        "wikimedia_commons": "Category:Scafati_train_station_(RFI)",
+        "wikipedia": "it:Stazione di Scafati"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1457483598,
+      "lat": 40.9988012,
+      "lon": 14.2414899,
+      "tags": {
+        "name": "Gricignano-Teverola",
+        "network": "RFI",
+        "network:wikidata": "Q1060049",
+        "operator": "RFI",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309300",
+        "website": "https://www.rfi.it/it/stazioni/gricignano-teverola.html",
+        "wikidata": "Q16609276",
+        "wikimedia_commons": "Category:Gricignano-Teverola_train_station",
+        "wikipedia": "it:Stazione di Gricignano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1457483599,
+      "lat": 41.0359266,
+      "lon": 14.2876075,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Marcianise",
+        "network": "RFI",
+        "network:wikidata": "Q1060049",
+        "operator": "RFI",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "station": "train",
+        "train": "yes",
+        "uic_ref": "8309301",
+        "website": "https://www.rfi.it/it/stazioni/marcianise.html",
+        "wheelchair": "limited",
+        "wikidata": "Q17637363",
+        "wikimedia_commons": "Category:Marcianise_train_station",
+        "wikipedia": "it:Stazione di Marcianise"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1457483626,
+      "lat": 41.0623767,
+      "lon": 14.3032249,
+      "tags": {
+        "name": "Recale",
+        "network": "RFI",
+        "network:wikidata": "Q1060049",
+        "operator": "RFI",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309302",
+        "website": "https://www.rfi.it/it/stazioni/recale.html",
+        "wheelchair": "no",
+        "wikidata": "Q17637491",
+        "wikimedia_commons": "Category:Recale_train_station",
+        "wikipedia": "it:Stazione di Recale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1457583185,
+      "lat": 41.0359077,
+      "lon": 14.3804981,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Maddaloni Inferiore",
+        "network": "RFI",
+        "network:wikidata": "Q1060049",
+        "operator": "RFI",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "station": "train",
+        "train": "yes",
+        "uic_ref": "8309212",
+        "website": "https://www.rfi.it/it/stazioni/maddaloni-inferiore.html",
+        "wikidata": "Q18224663",
+        "wikimedia_commons": "Category:Maddaloni_Inferiore_train_station",
+        "wikipedia": "it:Stazione di Maddaloni Inferiore"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1457603116,
+      "lat": 40.9397927,
+      "lon": 14.3730103,
+      "tags": {
+        "name": "Acerra",
+        "network": "RFI",
+        "network:wikidata": "Q1060049",
+        "operator": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "platform",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309215",
+        "website": "https://www.rfi.it/it/stazioni/acerra.html",
+        "wikidata": "Q3968810",
+        "wikimedia_commons": "Category:Acerra_train_station_(RFI)",
+        "wikipedia": "it:Stazione di Acerra (RFI)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1457605401,
+      "lat": 40.9155381,
+      "lon": 14.3529137,
+      "tags": {
+        "name": "Casalnuovo",
+        "network": "RFI",
+        "network:wikidata": "Q1060049",
+        "operator": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "platform",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309216",
+        "website": "https://www.rfi.it/it/stazioni/casalnuovo.html",
+        "wikidata": "Q3969263",
+        "wikimedia_commons": "Category:Casalnuovo_train_station",
+        "wikipedia": "it:Stazione di Casalnuovo (RFI)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1459462235,
+      "lat": 40.9349765,
+      "lon": 14.1037346,
+      "tags": {
+        "loc_name": "Stazione di Ponte Riccio",
+        "name": "Giugliano-Qualiano",
+        "operator": "Q1060049",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309100",
+        "website": "https://www.rfi.it/it/stazioni/giugliano-qualiano.html",
+        "wheelchair": "yes",
+        "wikidata": "Q3969734",
+        "wikimedia_commons": "Category:Giugliano-Qualiano_train_station",
+        "wikipedia": "it:Stazione di Giugliano-Qualiano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1460817143,
+      "lat": 40.8355486,
+      "lon": 14.2450339,
+      "tags": {
+        "name": "Chiaia - Monte di Dio",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "metro.na.it",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3667403",
+        "wikipedia": "it:Chiaia (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1460817154,
+      "lat": 40.8336241,
+      "lon": 14.2347007,
+      "tags": {
+        "name": "San Pasquale",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "metro.na.it",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3947770",
+        "wikipedia": "it:San Pasquale (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1460900833,
+      "lat": 40.8257709,
+      "lon": 14.2161178,
+      "tags": {
+        "funicular": "yes",
+        "name": "S.Gioacchino",
+        "network": "Funicolare di Mergellina",
+        "opening_hours": "07:00-22:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1462104950,
+      "lat": 40.838941,
+      "lon": 14.2476872,
+      "tags": {
+        "funicular": "yes",
+        "name": "Augusteo",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular",
+        "wheelchair": "limited",
+        "wikidata": "Q22939346"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1462104952,
+      "lat": 40.8412474,
+      "lon": 14.2387855,
+      "tags": {
+        "funicular": "yes",
+        "name": "Petraio",
+        "opening_hours": "Mo, Tu 07:00-22:30; We, Th, Su 07:00-00:30, Fr, Sa 07:00-02:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "bing, metro.na.it",
+        "station": "funicular",
+        "wikipedia": "it:Stazione di Petraio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1462104953,
+      "lat": 40.8424919,
+      "lon": 14.233704,
+      "tags": {
+        "funicular": "yes",
+        "name": "Piazza Fuga",
+        "opening_hours": "Mo, Tu 07:00-22:30; We, Th, Su 07:00-00:30, Fr, Sa 07:00-02:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "metro.na.it, bing",
+        "station": "funicular",
+        "wheelchair": "limited",
+        "wikipedia": "it:Stazione di Piazza Fuga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1462124085,
+      "lat": 40.811495,
+      "lon": 14.0448721,
+      "tags": {
+        "name": "Torregaveta",
+        "operator": "EAV",
+        "platforms": "4",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q3971156",
+        "wikipedia": "it:Stazione di Torregaveta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1463003360,
+      "lat": 40.8785138,
+      "lon": 14.0946728,
+      "tags": {
+        "name": "Grotta del Sole",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969759",
+        "wikipedia": "it:Stazione di Grotta del Sole"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1463010430,
+      "lat": 40.8491369,
+      "lon": 14.0488298,
+      "tags": {
+        "name": "Cuma",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969501",
+        "wikipedia": "it:Stazione di Cuma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1463010431,
+      "lat": 40.8288802,
+      "lon": 14.0498377,
+      "tags": {
+        "name": "Lido Fusaro",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969958",
+        "wikipedia": "it:Stazione di Lido Fusaro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1480005815,
+      "lat": 40.8292497,
+      "lon": 14.0834472,
+      "tags": {
+        "name": "Lucrino",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3969984",
+        "wikipedia": "it:Stazione di Lucrino"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1483514220,
+      "lat": 40.8930079,
+      "lon": 14.2397331,
+      "tags": {
+        "name": "Piscinola-Scampia",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3970503",
+        "wikipedia": "it:Stazione di Piscinola Scampia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1738657712,
+      "lat": 40.8807496,
+      "lon": 14.2308826,
+      "tags": {
+        "name": "Frullone",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3753787",
+        "wikipedia": "it:Frullone (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1738657713,
+      "lat": 40.8424368,
+      "lon": 14.2488741,
+      "tags": {
+        "name": "Toledo",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3992393",
+        "wikipedia": "it:Toledo (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1738681458,
+      "lat": 40.8510432,
+      "lon": 14.2732815,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Napoli Garibaldi",
+        "network": "Circumvesuviana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "wikidata": "Q3970273",
+        "wikipedia": "it:Stazione di Napoli Garibaldi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1757100165,
+      "lat": 40.8476169,
+      "lon": 14.2616083,
+      "tags": {
+        "name": "Duomo",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2021-08-06",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3716326",
+        "wikipedia": "it:Duomo (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2035675302,
+      "lat": 40.734063,
+      "lon": 14.4719548,
+      "tags": {
+        "name": "Rovigliano",
+        "network:wikidata": "Q1060049",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8300146",
+        "website": "https://www.rfi.it/it/stazioni/rovigliano.html",
+        "wikidata": "Q3970743",
+        "wikimedia_commons": "Category:Rovigliano_train_station",
+        "wikipedia": "it:Stazione di Rovigliano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2035680029,
+      "lat": 40.7014021,
+      "lon": 14.4837626,
+      "tags": {
+        "addr:city": "Castellammare di Stabia",
+        "addr:postcode": "80053",
+        "addr:street": "Piazza Matteotti",
+        "name": "Castellammare di Stabia",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309756",
+        "website": "https://www.rfi.it/it/stazioni/castellammare-di-stabia.html",
+        "wikidata": "Q3969308",
+        "wikimedia_commons": "Category:Castellammare_di_Stabia_train_station_(RFI)",
+        "wikipedia": "it:Stazione di Castellammare di Stabia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2246301494,
+      "lat": 40.775816,
+      "lon": 14.4000979,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Via dei Monaci",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3971286",
+        "wikipedia": "it:Stazione di Via dei Monaci"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3036909913,
+      "lat": 40.8652442,
+      "lon": 14.2213451,
+      "tags": {
+        "name": "Policlinico",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3907278",
+        "wikipedia": "it:Policlinico (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3036909925,
+      "lat": 40.8698129,
+      "lon": 14.228614,
+      "tags": {
+        "name": "Colli Aminei",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3683079",
+        "wikipedia": "it:Colli Aminei (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3036923656,
+      "lat": 40.8611696,
+      "lon": 14.22023,
+      "tags": {
+        "name": "Rione Alto",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3936276",
+        "wikipedia": "it:Rione Alto (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3036923663,
+      "lat": 40.85056,
+      "lon": 14.2308094,
+      "tags": {
+        "name": "Medaglie d'Oro",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3853612",
+        "wikipedia": "it:Medaglie d'Oro (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3386556332,
+      "lat": 40.8509122,
+      "lon": 14.3333427,
+      "tags": {
+        "name": "Ponticelli",
+        "network": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970549",
+        "wikipedia": "it:Stazione di Ponticelli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3389605447,
+      "lat": 40.7700301,
+      "lon": 14.474435,
+      "tags": {
+        "addr:city": "Boscoreale",
+        "addr:postcode": "80041",
+        "addr:street": "Piazza Vargas",
+        "light_rail": "yes",
+        "name": "Boscoreale",
+        "network": "Circumvesuviana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3969102",
+        "wikipedia": "it:Stazione di Boscoreale (Circumvesuviana)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3503568111,
+      "lat": 40.7875387,
+      "lon": 14.3632124,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Torre del Greco",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309803",
+        "website": "https://www.rfi.it/it/stazioni/torre-del-greco.html",
+        "wikidata": "Q3971153",
+        "wikimedia_commons": "Category:Torre_del_Greco_train_station_(RFI)",
+        "wikipedia": "it:Stazione di Torre del Greco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3507612096,
+      "lat": 40.8401165,
+      "lon": 14.2431557,
+      "tags": {
+        "funicular": "yes",
+        "name": "Corso Vittorio Emanuele",
+        "opening_hours": "Mo, Tu 07:00-22:30; We, Th, Su 07:00-00:30, Fr, Sa 07:00-02:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular",
+        "wikipedia": "it:Stazione di Corso Vittorio Emanuele (funicolare Centrale)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3898034657,
+      "lat": 41.0137832,
+      "lon": 14.478013,
+      "tags": {
+        "name": "San Felice a Cancello",
+        "operator": "EAV s.r.l.",
+        "public_transport": "station",
+        "railway": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3906344558,
+      "lat": 40.7572394,
+      "lon": 14.4702797,
+      "tags": {
+        "addr:city": "Torre Annunziata",
+        "addr:street": "Via Settetermini",
+        "light_rail": "yes",
+        "name": "Villa Regina",
+        "network": "Circumvesuviana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q31213620",
+        "wikipedia": "it:Stazione di Villa Regina-Antiquarium"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4340367752,
+      "lat": 40.7781017,
+      "lon": 14.3924153,
+      "tags": {
+        "name": "Via del Monte",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "Bing",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3971287",
+        "wikipedia": "it:Stazione di Via del Monte"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4458516196,
+      "lat": 40.8801749,
+      "lon": 14.1448001,
+      "tags": {
+        "name": "Quarto Centro",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3970620",
+        "wikipedia": "it:Stazione di Quarto Centro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4458909343,
+      "lat": 40.7552398,
+      "lon": 14.4078965,
+      "tags": {
+        "name": "Santa Maria La Bruna",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "short_name": "S.Maria La Bruna",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309804",
+        "website": "https://www.rfi.it/it/stazioni/s-maria-la-bruna.html",
+        "wikidata": "Q3970886",
+        "wikipedia": "it:Stazione di Santa Maria la Bruna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4459022840,
+      "lat": 40.8098814,
+      "lon": 14.3358073,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Portici-Ercolano",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309802",
+        "website": "https://www.rfi.it/it/stazioni/portici-ercolano.html",
+        "wheelchair": "no",
+        "wikidata": "Q3970564",
+        "wikimedia_commons": "Category:Portici-Ercolano_train_station",
+        "wikipedia": "it:Stazione di Portici-Ercolano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4459022870,
+      "lat": 40.8331154,
+      "lon": 14.3053271,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Napoli San Giovanni Barra",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "short_name": "Napoli S.Giovanni Barra",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309800",
+        "website": "https://www.rfi.it/it/stazioni/napoli-s-giovanni-barra.html",
+        "wikidata": "Q3970285",
+        "wikimedia_commons": "Category:Napoli_San_Giovanni-Barra_train_station",
+        "wikipedia": "it:Stazione di Napoli San Giovanni-Barra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4459023928,
+      "lat": 40.8538884,
+      "lon": 14.2878019,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Napoli Gianturco",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309110",
+        "website": "https://www.rfi.it/it/stazioni/napoli-gianturco.html",
+        "wikidata": "Q3970275",
+        "wikimedia_commons": "Category:Napoli_Gianturco_train_station",
+        "wikipedia": "it:Stazione di Napoli Gianturco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4459194571,
+      "lat": 40.7470658,
+      "lon": 14.4638723,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Torre Annunziata Centrale",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "short_name": "Torre Annunziata C.le",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309806",
+        "website": "https://www.rfi.it/it/stazioni/torre-annunziata-centrale.html",
+        "wikidata": "Q3971143",
+        "wikimedia_commons": "Category:Torre_Annunziata_Centrale_train_station",
+        "wikipedia": "it:Stazione di Torre Annunziata Centrale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4459248891,
+      "lat": 40.7458975,
+      "lon": 14.5012377,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Pompei",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309810",
+        "website": "https://www.rfi.it/it/stazioni/pompei.html",
+        "wheelchair": "yes",
+        "wikidata": "Q3970522",
+        "wikimedia_commons": "Category:Pompei_train_station",
+        "wikipedia": "it:Stazione di Pompei"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4905758798,
+      "lat": 40.931823,
+      "lon": 14.331566,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Napoli Afragola",
+        "network": "RFI",
+        "network:wikidata": "Q1060049",
+        "operator": "RFI",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position": "210.0",
+        "railway:position:exact": "209.985",
+        "source": "https://github.com/trainline-eu/stations",
+        "start_date": "2017-06",
+        "train": "yes",
+        "uic_ref": "8309988",
+        "website": "https://www.rfi.it/it/stazioni/napoli-afragola.html",
+        "wikidata": "Q3970269",
+        "wikimedia_commons": "Category:Napoli_Afragola_train_station",
+        "wikipedia": "it:Stazione di Napoli Afragola"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4915204196,
+      "lat": 40.9125653,
+      "lon": 14.4806268,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Scisciano",
+        "network": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q16609888",
+        "wikipedia": "it:Stazione di Scisciano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4915217460,
+      "lat": 40.9194022,
+      "lon": 14.4427296,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Vittorio Veneto",
+        "network": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q16610087",
+        "wikipedia": "it:Stazione di Via Vittorio Veneto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4917117115,
+      "lat": 40.8364314,
+      "lon": 14.2209842,
+      "tags": {
+        "name": "Corso Vittorio Emanuele",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969485",
+        "wikipedia": "it:Stazione di Corso Vittorio Emanuele"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4917182267,
+      "lat": 40.9167109,
+      "lon": 14.4291273,
+      "tags": {
+        "light_rail": "yes",
+        "name": "De Ruggiero",
+        "network": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3969515",
+        "wikipedia": "it:Stazione di De Ruggiero"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4917764619,
+      "lat": 40.918426,
+      "lon": 14.4731632,
+      "tags": {
+        "light_rail": "yes",
+        "name": "San Vitaliano",
+        "network": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q16609829",
+        "wikipedia": "it:Stazione di San Vitaliano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4917782011,
+      "lat": 40.9169349,
+      "lon": 14.4563433,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Marigliano",
+        "network": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q16609397",
+        "wikipedia": "it:Stazione di Marigliano (Circumvesuviana)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4917809067,
+      "lat": 40.9171806,
+      "lon": 14.4176841,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Brusciano",
+        "network": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3969129",
+        "wikipedia": "it:Stazione di Brusciano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4917826145,
+      "lat": 40.9121837,
+      "lon": 14.5093091,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Saviano",
+        "network": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q16609866",
+        "wikipedia": "it:Stazione di Saviano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4936292644,
+      "lat": 40.8560001,
+      "lon": 14.1624307,
+      "tags": {
+        "name": "Pianura",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3970470",
+        "wikipedia": "it:Stazione di Pianura"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6536935424,
+      "lat": 40.8315681,
+      "lon": 14.2187034,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Napoli Mergellina",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309105",
+        "website": "https://www.rfi.it/it/stazioni/napoli-mergellina.html",
+        "wheelchair": "limited",
+        "wikidata": "Q3970277",
+        "wikimedia_commons": "Category:Napoli_Mergellina_train_station",
+        "wikipedia": "it:Stazione di Napoli Mergellina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6817740560,
+      "lat": 40.8221756,
+      "lon": 14.1946381,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Napoli Campi Flegrei",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309103",
+        "website": "https://www.rfi.it/it/stazioni/napoli-campi-flegrei.html",
+        "wheelchair": "no",
+        "wikidata": "Q3970272",
+        "wikimedia_commons": "Category:Napoli_Campi_Flegrei_train_station",
+        "wikipedia": "it:Stazione di Napoli Campi Flegrei"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6817755819,
+      "lat": 40.8194209,
+      "lon": 14.1666694,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Bagnoli-Agnano Terme",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309102",
+        "website": "https://www.rfi.it/it/stazioni/bagnoli-agnano-terme.html",
+        "wheelchair": "no",
+        "wikidata": "Q3968951",
+        "wikimedia_commons": "Category:Bagnoli-Agnano_Terme_train_station",
+        "wikipedia": "it:Stazione di Bagnoli-Agnano Terme"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6817760441,
+      "lat": 40.8240468,
+      "lon": 14.199742,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Napoli Piazza Leopardi",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "83091041",
+        "website": "https://www.rfi.it/it/stazioni/napoli-piazza-leopardi.html",
+        "wheelchair": "no",
+        "wikidata": "Q3970282",
+        "wikimedia_commons": "Category:Napoli_Piazza_Leopardi_train_station",
+        "wikipedia": "it:Stazione di Napoli Piazza Leopardi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6817792727,
+      "lat": 40.8276089,
+      "lon": 14.1260691,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Pozzuoli Solfatara",
+        "operator": "RFI",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309101",
+        "website": "https://www.rfi.it/it/stazioni/pozzuoli-solfatara.html",
+        "wheelchair": "no",
+        "wikidata": "Q3970598",
+        "wikipedia": "it:Stazione di Pozzuoli Solfatara"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6886777286,
+      "lat": 40.8524495,
+      "lon": 14.270471,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "layer": "-1",
+        "level": "-1",
+        "name": "Napoli Piazza Garibaldi",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309109",
+        "website": "https://www.rfi.it/it/stazioni/napoli-piazza-garibaldi.html",
+        "wheelchair": "yes",
+        "wikidata": "Q3970283",
+        "wikimedia_commons": "Category:Napoli_Piazza_Garibaldi_train_station",
+        "wikipedia": "it:Stazione di Napoli Piazza Garibaldi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7169124095,
+      "lat": 40.9400144,
+      "lon": 14.2636343,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "name": "Frattamaggiore-Grumo",
+        "network": "RFI",
+        "network:wikidata": "Q1060049",
+        "network:wikipedia": "Q1060049",
+        "operator": "RFI",
+        "public_transport": "platform",
+        "railway": "station",
+        "shelter": "yes",
+        "source": "https://github.com/trainline-eu/stations",
+        "tactile_paving": "yes",
+        "train": "yes",
+        "uic_ref": "8309008",
+        "website": "https://www.rfi.it/it/stazioni/frattamaggiore-grumo.html",
+        "wheelchair": "yes",
+        "wikidata": "Q3969659",
+        "wikimedia_commons": "Category:Frattamaggiore-Grumo_Nevano_train_station",
+        "wikipedia": "it:Stazione di Frattamaggiore-Grumo Nevano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7169124096,
+      "lat": 40.9077501,
+      "lon": 14.2986883,
+      "tags": {
+        "name": "Casoria-Afragola",
+        "network": "RFI",
+        "network:wikidata": "Q1060049",
+        "operator": "RFI",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309009",
+        "website": "https://www.rfi.it/it/stazioni/casoria-afragola.html",
+        "wheelchair": "yes",
+        "wikidata": "Q3969278",
+        "wikimedia_commons": "Category:Casoria-Afragola_train_station",
+        "wikipedia": "it:Stazione di Casoria-Afragola"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7884578138,
+      "lat": 40.8518924,
+      "lon": 14.2700419,
+      "tags": {
+        "layer": "-1",
+        "name": "Garibaldi",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3758347",
+        "wikipedia": "it:Garibaldi (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7884684060,
+      "lat": 40.8243372,
+      "lon": 14.1936564,
+      "tags": {
+        "name": "Mostra",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3866164",
+        "wikipedia": "it:Mostra (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8278678762,
+      "lat": 40.8198824,
+      "lon": 14.18763,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Cavalleggeri Aosta",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309113",
+        "website": "https://www.rfi.it/it/stazioni/cavalleggeri-aosta.html",
+        "wheelchair": "no",
+        "wikidata": "Q3969355",
+        "wikimedia_commons": "Category:Cavalleggeri_Aosta_train_station",
+        "wikipedia": "it:Stazione di Cavalleggeri Aosta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8440486172,
+      "lat": 40.8551766,
+      "lon": 14.2545779,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Napoli Piazza Cavour",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309108",
+        "website": "https://www.rfi.it/it/stazioni/napoli-piazza-cavour.html",
+        "wheelchair": "no",
+        "wikidata": "Q3970279",
+        "wikimedia_commons": "Category:Napoli_Piazza_Cavour_train_station",
+        "wikipedia": "it:Stazione di Napoli Piazza Cavour"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8440486177,
+      "lat": 40.8471695,
+      "lon": 14.2456734,
+      "tags": {
+        "departures_board": "realtime",
+        "name": "Montesanto",
+        "network": "Cumana/Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3970215",
+        "wikipedia": "it:Stazione di Montesanto (SEPSA)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8440486178,
+      "lat": 40.8476082,
+      "lon": 14.2439212,
+      "tags": {
+        "departures_board": "realtime",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Napoli Montesanto",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309107",
+        "website": "https://www.rfi.it/it/stazioni/napoli-montesanto.html",
+        "wheelchair": "no",
+        "wikidata": "Q3970278",
+        "wikimedia_commons": "Category:Napoli_Montesanto_train_station_(RFI)",
+        "wikipedia": "it:Stazione di Napoli Montesanto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8440486183,
+      "lat": 40.8384801,
+      "lon": 14.233124,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Napoli Piazza Amedeo",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309106",
+        "website": "https://www.rfi.it/it/stazioni/napoli-piazza-amedeo.html",
+        "wikidata": "Q3970280",
+        "wikimedia_commons": "Category:Napoli_Piazza_Amedeo_train_station",
+        "wikipedia": "it:Stazione di Napoli Piazza Amedeo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8441243974,
+      "lat": 40.849165,
+      "lon": 14.2691781,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Napoli Porta Nolana",
+        "network": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "wikidata": "Q3970281",
+        "wikipedia": "it:Stazione di Napoli Porta Nolana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8602717200,
+      "lat": 40.8211529,
+      "lon": 14.0712972,
+      "tags": {
+        "name": "Baia",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "Survey",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q131841037",
+        "wikipedia": "it:Stazione di Baia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8621188865,
+      "lat": 40.9130287,
+      "lon": 14.2182975,
+      "tags": {
+        "name": "Mugnano",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3970242",
+        "wikipedia": "it:Stazione di Mugnano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8621188869,
+      "lat": 40.9279688,
+      "lon": 14.2175479,
+      "tags": {
+        "name": "Giugliano",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3969733",
+        "wikipedia": "it:Stazione di Giugliano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8621188873,
+      "lat": 40.960825,
+      "lon": 14.2107877,
+      "tags": {
+        "name": "Aversa Ippodromo",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3968934",
+        "wikimedia_commons": "Category:Aversa_Ippodromo_station_(Naples_metro)",
+        "wikipedia": "it:Aversa Ippodromo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8621188875,
+      "lat": 40.9740846,
+      "lon": 14.2136486,
+      "tags": {
+        "name": "Aversa Centro",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3968933",
+        "wikimedia_commons": "Category:Aversa_Centro_station_(Naples_metro)",
+        "wikipedia": "it:Aversa Centro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8748727887,
+      "lat": 40.8185701,
+      "lon": 14.0617293,
+      "tags": {
+        "name": "Fusaro",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969668",
+        "wikipedia": "it:Stazione di Fusaro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8879329549,
+      "lat": 40.8258007,
+      "lon": 14.2161128,
+      "tags": {
+        "funicular": "yes",
+        "name": "S.Gioacchino",
+        "network": "Funicolare di Mergellina",
+        "opening_hours": "07:00-22:00",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9126486961,
+      "lat": 40.8530238,
+      "lon": 14.2731399,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Napoli Centrale",
+        "name:cs": "Neapol",
+        "name:de": "Neapel",
+        "name:en": "Naples",
+        "name:es": "Nápoles",
+        "name:fr": "Naples",
+        "name:hu": "Nápoly",
+        "name:it": "Napoli Centrale",
+        "name:nl": "Napels",
+        "operator": "Rete Ferroviaria Italiana;Grandi Stazioni",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "short_name": "Napoli C.le",
+        "station": "train",
+        "train": "yes",
+        "uic_ref": "8309218",
+        "website": "https://www.rfi.it/it/stazioni/napoli-centrale.html",
+        "wheelchair": "limited",
+        "wikidata": "Q801237",
+        "wikimedia_commons": "Category:Napoli_Centrale_train_station",
+        "wikipedia": "it:Stazione di Napoli Centrale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9126513777,
+      "lat": 40.8533089,
+      "lon": 14.1206014,
+      "tags": {
+        "addr:city": "Pozzuoli",
+        "addr:housenumber": "230",
+        "addr:street": "Via Campana",
+        "name": "Via Campana",
+        "operator": "RFI",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q33104084"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10249732514,
+      "lat": 40.8580563,
+      "lon": 14.2816183,
+      "tags": {
+        "name": "Centro Direzionale",
+        "network": "Linea 1 (metropolitana di Napoli)",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3664698",
+        "wikipedia": "it:Centro Direzionale (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11061388820,
+      "lat": 40.6258533,
+      "lon": 14.3797876,
+      "tags": {
+        "name": "Sorrento",
+        "network": "Circumvesuviana",
+        "operator": "Ente Autonomo Volturno",
+        "operator:short": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3971023",
+        "wikipedia": "it:Stazione di Sorrento"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11229569398,
+      "lat": 40.851437,
+      "lon": 14.2368601,
+      "tags": {
+        "name": "Salvator Rosa",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3945923",
+        "wikipedia": "it:Salvator Rosa (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225006,
+      "lat": 40.8710751,
+      "lon": 14.3348515,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Madonnelle",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970010",
+        "wikipedia": "it:Stazione di Madonnelle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225007,
+      "lat": 40.8623966,
+      "lon": 14.3382861,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Argine Palasport",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3968897",
+        "wikipedia": "it:Stazione di Argine Palasport"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225008,
+      "lat": 40.8554948,
+      "lon": 14.3384483,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Villa Visconti",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3971316",
+        "wikipedia": "it:Stazione di Villa Visconti"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225010,
+      "lat": 40.851878,
+      "lon": 14.3390934,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Vesuvio de Meis",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3971280",
+        "wikipedia": "it:Stazione di Vesuvio de Meis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225012,
+      "lat": 40.847176,
+      "lon": 14.33655,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Bartolo Longo",
+        "network": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3969001",
+        "wikipedia": "it:Stazione di Bartolo Longo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225013,
+      "lat": 40.8330049,
+      "lon": 14.3376604,
+      "tags": {
+        "internet_access": "no",
+        "light_rail": "yes",
+        "name": "San Giorgio a Cremano",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970799",
+        "wikipedia": "it:Stazione di San Giorgio a Cremano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225015,
+      "lat": 40.9386457,
+      "lon": 14.5305327,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Cimitile",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q16609046",
+        "wikipedia": "it:Stazione di Cimitile"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225017,
+      "lat": 40.9293781,
+      "lon": 14.5267092,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Nola",
+        "network": "Circumvesuviana",
+        "operator": "EAV Treni",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q16609499",
+        "wikipedia": "it:Stazione di Nola (Circumvesuviana)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225025,
+      "lat": 40.9606252,
+      "lon": 14.5434737,
+      "tags": {
+        "name": "Cicciano",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "website": "http://www.vesuviana.it",
+        "wikidata": "Q16609043",
+        "wikipedia": "it:Stazione di Cicciano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225037,
+      "lat": 40.9473906,
+      "lon": 14.3825516,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Acerra",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3968811",
+        "wikipedia": "it:Stazione di Acerra (Circumvesuviana)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225038,
+      "lat": 40.9302459,
+      "lon": 14.3999866,
+      "tags": {
+        "name": "Alfa Lancia 4",
+        "network": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225039,
+      "lat": 40.9258154,
+      "lon": 14.4011733,
+      "tags": {
+        "name": "Alfa Lancia 2",
+        "network": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225040,
+      "lat": 40.9111517,
+      "lon": 14.3727877,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Parco Piemonte",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970419",
+        "wikipedia": "it:Stazione di Parco Piemonte"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225047,
+      "lat": 40.9146659,
+      "lon": 14.3928637,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Pomigliano d’Arco",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970520",
+        "wikipedia": "it:Stazione di Pomigliano d'Arco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225049,
+      "lat": 40.9102172,
+      "lon": 14.3652771,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Talona",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3971078",
+        "wikipedia": "it:Stazione di Talona"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225051,
+      "lat": 40.9089325,
+      "lon": 14.3550365,
+      "tags": {
+        "light_rail": "yes",
+        "name": "La Pigna",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3969889",
+        "wikipedia": "it:Stazione di La Pigna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225054,
+      "lat": 40.9078374,
+      "lon": 14.3475189,
+      "tags": {
+        "name": "Casalnuovo",
+        "network": "Circumvesuviana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q16608969",
+        "wikipedia": "it:Stazione di Casalnuovo (Circumvesuviana)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225058,
+      "lat": 40.8994651,
+      "lon": 14.3373791,
+      "tags": {
+        "addr:city": "Casalnuovo di Napoli",
+        "addr:postcode": "80013",
+        "addr:street": "Via Salice",
+        "light_rail": "yes",
+        "name": "Salice",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970767",
+        "wikipedia": "it:Stazione di Salice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11406225059,
+      "lat": 40.8721916,
+      "lon": 14.3155966,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Botteghelle",
+        "network": "Circumvesuviana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3969104",
+        "wikipedia": "it:Stazione di Botteghelle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407164101,
+      "lat": 40.8562974,
+      "lon": 14.3554549,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Cercola",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3969366",
+        "wikipedia": "it:Stazione di Cercola"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407164103,
+      "lat": 40.8598845,
+      "lon": 14.3798026,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Pollena Trocchia",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970517",
+        "wikipedia": "it:Stazione di Pollena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407164105,
+      "lat": 40.8700685,
+      "lon": 14.4005207,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Sant'Anastasia",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970866",
+        "wikipedia": "it:Stazione di Sant'Anastasia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407164107,
+      "lat": 40.874019,
+      "lon": 14.4385068,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Somma",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3971014",
+        "wikipedia": "it:Stazione di Somma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407164110,
+      "lat": 40.8529411,
+      "lon": 14.4806638,
+      "tags": {
+        "name": "Ottaviano",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970377",
+        "wikipedia": "it:Stazione di Ottaviano (Circumvesuviana)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407164112,
+      "lat": 40.8377639,
+      "lon": 14.50095,
+      "tags": {
+        "name": "San Giuseppe",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970814",
+        "wikipedia": "it:Stazione di San Giuseppe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407164114,
+      "lat": 40.8142985,
+      "lon": 14.4972988,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Terzigno",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3971105",
+        "wikipedia": "it:Stazione di Terzigno (Circumvesuviana)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407164119,
+      "lat": 40.8476472,
+      "lon": 14.32459,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Officine Ponticelli",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407164120,
+      "lat": 40.8441873,
+      "lon": 14.3141516,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Barra",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3968999",
+        "wikipedia": "it:Stazione di Barra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407164125,
+      "lat": 40.8010383,
+      "lon": 14.5401692,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Poggiomarino",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3970512",
+        "wikipedia": "it:Stazione di Poggiomarino"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407270270,
+      "lat": 40.8287397,
+      "lon": 14.3407135,
+      "tags": {
+        "internet_access": "no",
+        "light_rail": "yes",
+        "name": "San Giorgio Cavalli di Bronzo",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3970798",
+        "wikipedia": "it:Stazione di San Giorgio Cavalli di Bronzo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407270271,
+      "lat": 40.822014,
+      "lon": 14.3434406,
+      "tags": {
+        "name": "Portici Bellavista",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970562",
+        "wikipedia": "it:Stazione di Portici Bellavista"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407270272,
+      "lat": 40.8167184,
+      "lon": 14.3463344,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Portici Via Libertà",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970563",
+        "wikipedia": "it:Stazione di Portici Via Libertà"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407270274,
+      "lat": 40.8085216,
+      "lon": 14.3554606,
+      "tags": {
+        "departures_board": "realtime",
+        "name": "Ercolano Scavi",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3969568",
+        "wikipedia": "it:Stazione di Ercolano Scavi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407270275,
+      "lat": 40.802055,
+      "lon": 14.3615033,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Ercolano Miglio D'Oro",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970105",
+        "wikipedia": "it:Stazione di Miglio d'Oro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407270278,
+      "lat": 40.7842817,
+      "lon": 14.3842293,
+      "tags": {
+        "name": "Via Sant'Antonio",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3971284",
+        "wikipedia": "it:Stazione di Via Sant'Antonio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407270279,
+      "lat": 40.8402229,
+      "lon": 14.327686,
+      "tags": {
+        "name": "Santa Maria del Pozzo",
+        "network": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970882",
+        "wikipedia": "it:Stazione di Santa Maria del Pozzo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407270285,
+      "lat": 40.7722417,
+      "lon": 14.4084946,
+      "tags": {
+        "name": "Villa delle Ginestre",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3971320",
+        "wikipedia": "it:Stazione di Villa delle Ginestre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407270286,
+      "lat": 40.7637761,
+      "lon": 14.4280023,
+      "tags": {
+        "name": "Via Viuli",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3971285",
+        "wikipedia": "it:Stazione di Via Viuli-Palazzo di Giustizia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407270287,
+      "lat": 40.7619017,
+      "lon": 14.4397192,
+      "tags": {
+        "name": "Trecase",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3971182",
+        "wikipedia": "it:Stazione di Trecase"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407270289,
+      "lat": 40.7536474,
+      "lon": 14.5241766,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Scafati",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970923",
+        "wikipedia": "it:Stazione di Scafati (Circumvesuviana)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407270297,
+      "lat": 40.7512701,
+      "lon": 14.5016608,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Pompei - Santuario",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3970521",
+        "wikipedia": "it:Stazione di Pompei Santuario"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407270298,
+      "lat": 40.7598147,
+      "lon": 14.4510233,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Torre Annunziata - Oplonti",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3971146",
+        "wikipedia": "it:Stazione di Torre Annunziata Oplonti"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407285515,
+      "lat": 41.0285791,
+      "lon": 14.4626293,
+      "tags": {
+        "addr:city": "Santa Maria a Vico",
+        "addr:street": "Piazzale della Stazione",
+        "name": "Santa Maria a Vico",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q24940635",
+        "wikipedia": "it:Stazione di Santa Maria a Vico"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407493917,
+      "lat": 40.6349718,
+      "lon": 14.4104818,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Piano di Sorrento",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970469",
+        "wikipedia": "it:Stazione di Piano di Sorrento"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407493918,
+      "lat": 40.7487891,
+      "lon": 14.4809031,
+      "tags": {
+        "light_rail": "yes",
+        "name": "Pompei Scavi - Villa dei Misteri",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3970525",
+        "wikipedia": "it:Stazione di Pompei Scavi-Villa dei Misteri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407722188,
+      "lat": 40.7188611,
+      "lon": 14.4917259,
+      "tags": {
+        "description": "In attesa di riparare il sovrappasso pedonale, l'ingresso avviene ponte, scendendo le scale, sulla banchina Est",
+        "internet_access": "no",
+        "light_rail": "yes",
+        "name": "Pioppaino",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3970497",
+        "wikipedia": "it:Stazione di Pioppaino"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407722191,
+      "lat": 40.6953051,
+      "lon": 14.4837248,
+      "tags": {
+        "name": "Castellammare di Stabia",
+        "network": "Circumvesuviana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969309",
+        "wikipedia": "it:Stazione di Castellammare di Stabia (Circumvesuviana)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407722194,
+      "lat": 40.6628091,
+      "lon": 14.4298674,
+      "tags": {
+        "name": "Vico Equense",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3971292",
+        "wikipedia": "it:Stazione di Vico Equense"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407722196,
+      "lat": 40.6405035,
+      "lon": 14.4162093,
+      "tags": {
+        "name": "Meta",
+        "network": "Circumvesuviana",
+        "operator": "Circumvesuviana",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "wikidata": "Q3970095",
+        "wikipedia": "it:Stazione di Meta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11929061005,
+      "lat": 40.8325441,
+      "lon": 14.2266946,
+      "tags": {
+        "name": "Arco Mirelli",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "it.wikipedia",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3621754",
+        "wikipedia": "it:Arco Mirelli-Repubblica (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11929061006,
+      "lat": 40.8393928,
+      "lon": 14.2528361,
+      "tags": {
+        "name": "Municipio",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "it.wikipedia",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3867206",
+        "wikipedia": "it:Municipio (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11929061007,
+      "lat": 40.8396837,
+      "lon": 14.2524604,
+      "tags": {
+        "name": "Municipio",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "it.wikipedia",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3867206",
+        "wikipedia": "it:Municipio (metropolitana di Napoli)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12294030825,
+      "lat": 40.8651222,
+      "lon": 14.5398011,
+      "tags": {
+        "name": "Palma-San Gennaro",
+        "network": "RFI",
+        "network:wikidata": "Q1060049",
+        "operator": "RFI",
+        "public_transport": "station",
+        "railway": "station",
+        "short_name": "Palma-S.Gennaro",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309701",
+        "website": "https://www.rfi.it/it/stazioni/palma-s-gennaro.html",
+        "wikimedia_commons": "Category:Palma-San_Gennaro_train_station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13194453841,
+      "lat": 40.9921282,
+      "lon": 14.1719886,
+      "tags": {
+        "name": "San Marcellino-Frignano",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "short_name": "S.Marcellino-Frignano",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309005",
+        "website": "https://www.rfi.it/it/stazioni/s-marcellino-frignano.html",
+        "wikidata": "Q16609806",
+        "wikipedia": "it:Stazione di San Marcellino-Frignano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13194543207,
+      "lat": 41.0052016,
+      "lon": 14.0672307,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": ".WIFISTATION",
+        "name": "Villa Literno",
+        "network:wikidata": "Q1060049",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309003",
+        "website": "https://www.rfi.it/it/stazioni/villa-literno.html",
+        "wikidata": "Q3971317",
+        "wikimedia_commons": "Category:Villa_Literno_train_station",
+        "wikipedia": "it:Stazione di Villa Literno"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13194552444,
+      "lat": 40.996076,
+      "lon": 14.1286807,
+      "tags": {
+        "name": "Albanova",
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://github.com/trainline-eu/stations",
+        "train": "yes",
+        "uic_ref": "8309004",
+        "website": "https://www.rfi.it/it/stazioni/albanova.html",
+        "wikidata": "Q16608728",
+        "wikipedia": "it:Stazione di Albanova"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13311015788,
+      "lat": 40.8424081,
+      "lon": 14.1853173,
+      "tags": {
+        "name": "Monte Sant'Angelo",
+        "network": "Linea 7",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3970191",
+        "wikipedia": "it:Stazione di Monte Sant'Angelo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13401950063,
+      "lat": 40.7038818,
+      "lon": 14.4903043,
+      "tags": {
+        "name": "Stabia Scavi",
+        "network": "Circumvesuviana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q137394634",
+        "wikipedia": "it:Stazione di Stabia Scavi"
+      }
+    }
+  ]
+}

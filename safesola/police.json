@@ -1,0 +1,1402 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.10 2d4cfc48",
+  "osm3s": {
+    "timestamp_osm_base": "2026-03-05T16:06:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 846949970,
+      "lat": 40.9310436,
+      "lon": 14.2167846,
+      "tags": {
+        "amenity": "police",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1466934177,
+      "lat": 40.849817,
+      "lon": 14.4773444,
+      "tags": {
+        "amenity": "police"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1480010450,
+      "lat": 40.8323594,
+      "lon": 14.5077861,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia di Stato",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1488391651,
+      "lat": 40.8883291,
+      "lon": 14.2649132,
+      "tags": {
+        "amenity": "police",
+        "check_date": "2025-02-18",
+        "name": "Commissariato PS Secondigliano",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1500280508,
+      "lat": 40.9008876,
+      "lon": 14.2931273,
+      "tags": {
+        "amenity": "police",
+        "name": "Comando Compagnia dei Carabinieri di Casoria",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "operator:wikipedia": "it:Arma dei Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1560860180,
+      "lat": 40.8804599,
+      "lon": 14.1457729,
+      "tags": {
+        "amenity": "police",
+        "check_date": "2025-11-22",
+        "name": "Comando Vigili Urbani",
+        "operator": "Polizia Municipale",
+        "operator:wikidata": "Q1431981"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1617148766,
+      "lat": 41.0483567,
+      "lon": 14.3305645,
+      "tags": {
+        "amenity": "police",
+        "name": "Carabinieri San Nicola la Strada",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "operator:wikipedia": "it:Arma dei Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1632724364,
+      "lat": 40.7075582,
+      "lon": 14.4818442,
+      "tags": {
+        "amenity": "police",
+        "name": "Comando Compagnia Carabinieri Castellammare di Stabia",
+        "operator": "Arma dei Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1632724652,
+      "lat": 40.708156,
+      "lon": 14.4816886,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia di Stato"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1664279596,
+      "lat": 40.7484797,
+      "lon": 14.5007364,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia di Stato",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1818717492,
+      "lat": 40.8486994,
+      "lon": 14.2273497,
+      "tags": {
+        "amenity": "police",
+        "name": "Commissariato di Polizia Vomero"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1832673633,
+      "lat": 40.6290845,
+      "lon": 14.4816619,
+      "tags": {
+        "amenity": "police",
+        "name": "Carabinieri",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2015670365,
+      "lat": 40.6301777,
+      "lon": 14.479805,
+      "tags": {
+        "amenity": "police",
+        "name": "Guardia di Finanza",
+        "operator": "Guardia di Finanza",
+        "operator:wikidata": "Q1552861"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2129339870,
+      "lat": 41.0719388,
+      "lon": 14.330902,
+      "tags": {
+        "amenity": "police",
+        "check_date": "2024-11-24",
+        "name": "Corpo Forestale dello Stato Comando Provinciale",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2129339871,
+      "lat": 41.0719267,
+      "lon": 14.331658,
+      "tags": {
+        "amenity": "police",
+        "name": "Corpo Forestale dello Stato Comando Stazione",
+        "operator": "Polizia Locale",
+        "operator:wikidata": "Q61634147"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2194080269,
+      "lat": 40.8189818,
+      "lon": 14.3422123,
+      "tags": {
+        "amenity": "police",
+        "name": "Carabinieri Portici",
+        "operator": "Arma dei Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2194080275,
+      "lat": 40.8173874,
+      "lon": 14.3520104,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia di Stato Portici-Ercolano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2222350546,
+      "lat": 40.8245109,
+      "lon": 14.1210314,
+      "tags": {
+        "addr:city": "Pozzuoli",
+        "addr:postcode": "80078",
+        "addr:street": "Piazza Italo Balbo",
+        "amenity": "police",
+        "name": "Polizia - Commissariato Pozzuoli",
+        "phone": "+39 081 3030621"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2457757209,
+      "lat": 40.9069504,
+      "lon": 14.2651929,
+      "tags": {
+        "amenity": "police",
+        "name": "Stazione Carabinieri",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2559568294,
+      "lat": 40.9589012,
+      "lon": 14.3065103,
+      "tags": {
+        "amenity": "police",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2633537386,
+      "lat": 40.8417369,
+      "lon": 14.3703915,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia Municipale",
+        "operator": "Polizia Municipale",
+        "operator:wikidata": "Q1431981",
+        "operator:wikipedia": "it:Polizia municipale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2778492358,
+      "lat": 40.8610161,
+      "lon": 14.5299882,
+      "tags": {
+        "amenity": "police",
+        "name": "Caserma Carabinieri",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2785951347,
+      "lat": 40.8354374,
+      "lon": 14.4956985,
+      "tags": {
+        "amenity": "police",
+        "name": "Carabinieri",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3405707153,
+      "lat": 40.8781258,
+      "lon": 14.1380264,
+      "tags": {
+        "amenity": "police",
+        "check_date": "2025-08-17",
+        "name": "Carabinieri",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3484514024,
+      "lat": 40.8564308,
+      "lon": 14.2700537,
+      "tags": {
+        "amenity": "police",
+        "name": "Carabinieri - Stazione Arenaccia",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702460911,
+      "lat": 40.7632795,
+      "lon": 14.4697883,
+      "tags": {
+        "addr:city": "Boscoreale",
+        "addr:housenumber": "12",
+        "addr:postcode": "80041",
+        "addr:street": "Via Le Corbusier",
+        "amenity": "police",
+        "name": "Polizia Locale di Boscoreale",
+        "operator": "Comune di Boscoreale",
+        "phone": "+39 081 8581155"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4057983905,
+      "lat": 40.7543539,
+      "lon": 14.4488458,
+      "tags": {
+        "addr:city": "Torre Annunziata",
+        "addr:housenumber": "3",
+        "addr:postcode": "80058",
+        "addr:street": "Piazza Giovanni Nicotera",
+        "amenity": "police",
+        "name": "Polizia Municipale",
+        "operator": "Polizia Municipale",
+        "source": "survey",
+        "survey:date": "2016-05-17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4085294292,
+      "lat": 40.7475188,
+      "lon": 14.4842355,
+      "tags": {
+        "amenity": "police",
+        "name": "Carabinieri",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "operator:wikipedia": "it:Arma dei Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4085540797,
+      "lat": 40.7483338,
+      "lon": 14.4995767,
+      "tags": {
+        "amenity": "police",
+        "check_date": "2025-12-09",
+        "name": "Polizia Municipale",
+        "operator": "Polizia Municipale",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4102800817,
+      "lat": 40.7568576,
+      "lon": 14.4421178,
+      "tags": {
+        "addr:city": "Torre Annunziata",
+        "addr:housenumber": "69",
+        "addr:postcode": "80058",
+        "addr:street": "Corso Umberto I",
+        "amenity": "police",
+        "name": "Polizia",
+        "source": "survey",
+        "survey:date": "2016-05-17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4502467242,
+      "lat": 40.8325777,
+      "lon": 14.2431316,
+      "tags": {
+        "amenity": "police",
+        "name": "Carabinieri - Comando Interregionale (Caserma Vittoria)",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "operator:wikipedia": "it:Arma dei Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4512257291,
+      "lat": 40.6609593,
+      "lon": 14.4277808,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:street": "Via Raffaele Bosco",
+        "amenity": "police",
+        "name": "Carabinieri",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534517870,
+      "lat": 40.7207169,
+      "lon": 14.5455159,
+      "tags": {
+        "addr:city": "Sant'Antonio Abate",
+        "addr:housenumber": "25",
+        "addr:postcode": "80057",
+        "addr:street": "Via de Luca",
+        "amenity": "police",
+        "name": "Carabinieri",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4816916313,
+      "lat": 40.9586993,
+      "lon": 14.2144268,
+      "tags": {
+        "amenity": "police"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5452286051,
+      "lat": 40.6302367,
+      "lon": 14.4137858,
+      "tags": {
+        "addr:city": "Piano di Sorrento",
+        "addr:country": "IT",
+        "addr:housenumber": "29",
+        "addr:postcode": "80063",
+        "addr:street": "Via Gennaro Maresca",
+        "amenity": "police",
+        "name": "Polizia Municipale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5452297529,
+      "lat": 40.6312711,
+      "lon": 14.4087203,
+      "tags": {
+        "amenity": "police",
+        "name": "Comando Stazione Carabinieri Piano di Sorrento",
+        "operator": "Arma dei Carabinieri",
+        "operator:wikidata": "Q54852",
+        "phone": "+39 081 532 1919"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5882815872,
+      "lat": 40.7497233,
+      "lon": 14.5029535,
+      "tags": {
+        "amenity": "police",
+        "check_date": "2025-12-09",
+        "name": "Carabinieri",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "operator:wikipedia": "it:Arma dei Carabinieri",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5883093353,
+      "lat": 40.9356853,
+      "lon": 14.2489333,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia Municipale",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "operator": "Polizia Municipale",
+        "operator:wikidata": "Q1431981",
+        "operator:wikipedia": "it:Polizia municipale",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6736455584,
+      "lat": 40.8369698,
+      "lon": 14.0960342,
+      "tags": {
+        "amenity": "police",
+        "name": "Guardia di finanza",
+        "operator": "Guardia di Finanza",
+        "operator:wikidata": "Q1552861"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6883204087,
+      "lat": 40.8536053,
+      "lon": 14.2724756,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia Ferroviaria",
+        "opening_hours": "24/7",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817",
+        "operator:wikipedia": "it:Polizia di Stato"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7149092759,
+      "lat": 40.8481427,
+      "lon": 14.2472699,
+      "tags": {
+        "amenity": "police",
+        "check_date": "2025-10-08",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7619513182,
+      "lat": 40.8332874,
+      "lon": 14.3169986,
+      "tags": {
+        "amenity": "police"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7619513184,
+      "lat": 40.8317908,
+      "lon": 14.3127271,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia Municipale U.O. San Giovanni"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7619525385,
+      "lat": 40.8309452,
+      "lon": 14.3125435,
+      "tags": {
+        "addr:city": "Napoli",
+        "addr:housenumber": "2c",
+        "addr:postcode": "80146",
+        "addr:street": "Via Bernardo Quaranta",
+        "amenity": "police",
+        "name": "Stazione Carabinieri",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7619769793,
+      "lat": 40.8355933,
+      "lon": 14.2387613,
+      "tags": {
+        "addr:city": "Napoli",
+        "addr:housenumber": "1",
+        "addr:postcode": "80121",
+        "addr:street": "Largo Ferrandina",
+        "amenity": "police",
+        "name": "Stazione Carabinieri - Napoli Chiaia",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7794717027,
+      "lat": 40.81242,
+      "lon": 14.341508,
+      "tags": {
+        "amenity": "police",
+        "name": "Ministero Della Giustizia Scuola Di Formazione E Aggiornamento Del Corpo Di Polizia E Del Personale Dell'Amministrazione Penitenziaria Di Portici"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7836030888,
+      "lat": 40.9733887,
+      "lon": 14.2180863,
+      "tags": {
+        "amenity": "police",
+        "level": "0",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7842738393,
+      "lat": 40.9347092,
+      "lon": 14.2368362,
+      "tags": {
+        "addr:city": "Sant'Antimo",
+        "addr:postcode": "80029",
+        "addr:street": "Corso Unione Sovietica",
+        "amenity": "police",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "operator:wikipedia": "it:Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7862189590,
+      "lat": 41.0335178,
+      "lon": 14.3852399,
+      "tags": {
+        "addr:city": "Maddaloni",
+        "addr:street": "Via Caudina",
+        "amenity": "police",
+        "name": "Commissariato di Pubblica Sicurezza",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817",
+        "operator:wikipedia": "it:Polizia di Stato",
+        "wikidata": "Q3684669",
+        "wikipedia": "it:Commissariato di pubblica sicurezza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7902937076,
+      "lat": 40.9917895,
+      "lon": 14.131361,
+      "tags": {
+        "addr:city": "Casapesenna",
+        "addr:street": "Via Don Salvatore Vitale",
+        "addr:unit": "SP200",
+        "amenity": "police",
+        "name": "Polizia di Stato di Casapesenna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8065494307,
+      "lat": 41.024253,
+      "lon": 14.2956627,
+      "tags": {
+        "addr:city": "Marcianise",
+        "addr:street": "Via XXV Aprile",
+        "amenity": "police",
+        "name": "Comando Compagnia Carabinieri Marcianise",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "operator:wikipedia": "it:Arma dei Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8250045592,
+      "lat": 40.9197347,
+      "lon": 14.1570172,
+      "tags": {
+        "amenity": "police",
+        "name": "Stazione Carabinieri Qualiano",
+        "opening_hours": "24/7",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "operator:wikipedia": "it:Arma dei Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8510430437,
+      "lat": 40.6410181,
+      "lon": 14.5440197,
+      "tags": {
+        "amenity": "police",
+        "name": "Comando Stazione Carabinieri Agerola",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8510552472,
+      "lat": 40.6726616,
+      "lon": 14.5134391,
+      "tags": {
+        "amenity": "police",
+        "name": "Comando Stazione Carabinieri Pimonte",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8510556730,
+      "lat": 40.7135626,
+      "lon": 14.479373,
+      "tags": {
+        "addr:city": "Castellammare di Stabia",
+        "addr:housenumber": "253",
+        "addr:postcode": "80053",
+        "addr:street": "Corso Alcide de Gasperi",
+        "amenity": "police",
+        "name": "Comando Compagnia Guardia di Finanza Castellammare di Stabia",
+        "operator": "Guardia di Finanza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8852651809,
+      "lat": 40.9325042,
+      "lon": 14.2685616,
+      "tags": {
+        "amenity": "police",
+        "name": "Guardia di Finanza Gruppo Frattamaggiore",
+        "operator": "Guardia di Finanza",
+        "operator:wikidata": "Q1552861",
+        "operator:wikipedia": "it:Guardia di Finanza",
+        "website": "https://www.gdf.gov.it/reparti-del-corpo/territorio/campania/napoli/gruppo-frattamaggiore"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9004851002,
+      "lat": 40.6089904,
+      "lon": 14.3416281,
+      "tags": {
+        "addr:city": "Massa Lubrense",
+        "addr:housenumber": "29a",
+        "addr:postcode": "80061",
+        "addr:street": "Via Roma",
+        "amenity": "police",
+        "name": "Guardia di Finanza - Compagnia Massa Lubrense",
+        "operator": "Guardia di Finanza",
+        "operator:wikidata": "Q1552861",
+        "operator:wikipedia": "it:Guardia di Finanza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9210820622,
+      "lat": 40.962196,
+      "lon": 14.2726109,
+      "tags": {
+        "addr:city": "Orta di Atella",
+        "addr:street": "Corso Alcide De Gasperi",
+        "amenity": "police",
+        "name": "Carabinieri Comando Stazione di Orta di Atella",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "operator:wikipedia": "it:Arma dei Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9245533481,
+      "lat": 40.8687135,
+      "lon": 14.4035664,
+      "tags": {
+        "addr:city": "Sant'Anastasia",
+        "addr:postcode": "80048",
+        "addr:street": "Via Antonio D'Auria",
+        "amenity": "police",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "operator:wikipedia": "it:Arma dei Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9249726607,
+      "lat": 40.963985,
+      "lon": 14.1697465,
+      "tags": {
+        "amenity": "police",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9344021409,
+      "lat": 40.8574474,
+      "lon": 14.2796106,
+      "tags": {
+        "amenity": "police",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817",
+        "operator:wikipedia": "it:Polizia di Stato"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9346771917,
+      "lat": 40.8720973,
+      "lon": 14.401081,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia Municipale",
+        "operator": "Polizia Municipale",
+        "operator:wikidata": "Q1431981",
+        "operator:wikipedia": "it:Polizia municipale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9358437228,
+      "lat": 41.0307818,
+      "lon": 14.3133318,
+      "tags": {
+        "addr:city": "Marcianise",
+        "addr:postcode": "81020",
+        "addr:street": "Via Evangelista",
+        "amenity": "police",
+        "name": "Guardia di Finanza - Marcianise",
+        "operator": "Guardia di Finanza",
+        "operator:wikidata": "Q1552861",
+        "operator:wikipedia": "it:Guardia di Finanza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9370354379,
+      "lat": 40.8337713,
+      "lon": 14.2320174,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia di Stato - Commissariato San Ferdinando",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9374010052,
+      "lat": 40.9325097,
+      "lon": 14.2591987,
+      "tags": {
+        "amenity": "police",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "operator:wikipedia": "it:Arma dei Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9463178175,
+      "lat": 41.0215717,
+      "lon": 14.4962313,
+      "tags": {
+        "amenity": "police",
+        "name": "Carabinieri di Arienzo",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "operator:wikipedia": "it:Arma dei Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9463731519,
+      "lat": 40.9099,
+      "lon": 14.3884353,
+      "tags": {
+        "amenity": "police",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "operator:wikipedia": "it:Arma dei Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9550230406,
+      "lat": 41.069032,
+      "lon": 14.3291028,
+      "tags": {
+        "addr:city": "Caserta",
+        "addr:postcode": "81100",
+        "addr:street": "Piazza Garibaldi",
+        "amenity": "police",
+        "branch": "Stazione di Caserta",
+        "check_date": "2022-07-05",
+        "name": "Polizia Ferroviaria",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817",
+        "operator:wikipedia": "it:Polizia di Stato"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9573645566,
+      "lat": 40.9425797,
+      "lon": 14.2754253,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia Municipale di Frattamaggiore",
+        "operator": "Polizia Municipale",
+        "operator:wikidata": "Q1431981",
+        "operator:wikipedia": "it:Polizia municipale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9588347305,
+      "lat": 40.8698873,
+      "lon": 14.2871155,
+      "tags": {
+        "amenity": "police",
+        "check_date": "2025-12-16",
+        "name": "Polizia Municipale Motociclisti",
+        "operator": "Polizia Municipale",
+        "operator:wikidata": "Q1431981",
+        "operator:wikipedia": "it:Polizia municipale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9590552068,
+      "lat": 40.8561513,
+      "lon": 14.3793461,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia Municipale Pollena Trochia",
+        "operator": "Polizia Municipale",
+        "operator:wikidata": "Q1431981",
+        "operator:wikipedia": "it:Polizia municipale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9733661948,
+      "lat": 40.8742952,
+      "lon": 14.3469255,
+      "tags": {
+        "amenity": "police",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9937338220,
+      "lat": 40.8226567,
+      "lon": 14.1181311,
+      "tags": {
+        "amenity": "police",
+        "name": "Guardia Costiera",
+        "operator": "Guardia Costiera",
+        "operator:wikidata": "Q1552839"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9969467353,
+      "lat": 40.7935969,
+      "lon": 14.052563,
+      "tags": {
+        "amenity": "police",
+        "check_date": "2024-12-01",
+        "name": "Stazione Carabinieri di Monte di Procida",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9983755728,
+      "lat": 40.6279949,
+      "lon": 14.3813296,
+      "tags": {
+        "addr:city": "Sorrento",
+        "addr:country": "IT",
+        "addr:housenumber": "11",
+        "addr:postcode": "80067",
+        "addr:street": "Via Bartolomeo Capasso",
+        "amenity": "police",
+        "email": "cpna311280cdo@carabinieri.it",
+        "name": "Comando Compagnia Carabinieri Sorrento",
+        "operator": "Arma dei Carabinieri",
+        "phone": "+39 081 8073111"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10011141096,
+      "lat": 40.9996001,
+      "lon": 14.202103,
+      "tags": {
+        "amenity": "police",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10081700594,
+      "lat": 40.6273158,
+      "lon": 14.3836543,
+      "tags": {
+        "amenity": "police",
+        "name": "Comando Polizia Municipale",
+        "operator": "Polizia Municipale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10100748123,
+      "lat": 40.6278107,
+      "lon": 14.3837696,
+      "tags": {
+        "addr:city": "Sorrento",
+        "addr:country": "IT",
+        "addr:housenumber": "14",
+        "addr:postcode": "80067",
+        "addr:street": "Vico Terzo Rota",
+        "amenity": "police",
+        "email": "comm.sorrento.na@pecps.poliziadistato.it",
+        "fax": "+39 081 8075353",
+        "name": "Polizia di Stato - Commissariato di Sorrento",
+        "operator": "Polizia di Stato",
+        "operator:wikipedia": "Q897817",
+        "phone": "+39 081 8075311"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10167319090,
+      "lat": 40.9463825,
+      "lon": 14.2952173,
+      "tags": {
+        "addr:city": "Cardito",
+        "addr:street": "piazza G. Garibaldi",
+        "amenity": "police",
+        "name": "Polizia Municipale",
+        "operator": "Polizia Municipale",
+        "operator:wikidata": "Q1431981"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10589904218,
+      "lat": 40.8498304,
+      "lon": 14.2860565,
+      "tags": {
+        "addr:city": "Napoli",
+        "addr:housenumber": "131",
+        "addr:postcode": "80146",
+        "addr:street": "Via Galileo Ferraris",
+        "amenity": "police",
+        "email": "dipps151.00P0@pecps.poliziadistato.it",
+        "name": "Questura di Napoli - Ufficio immigrazione",
+        "opening_hours": "Mo-Th 08:30-13:30,14:30-17:00; Fr 08:30-13:30",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817",
+        "phone": "+39 081 606 4111"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10589904286,
+      "lat": 40.8499765,
+      "lon": 14.287466,
+      "tags": {
+        "amenity": "police",
+        "name": "Direzione Investigativa Antimafia",
+        "website": "https://direzioneinvestigativaantimafia.interno.gov.it/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10795810796,
+      "lat": 40.6112225,
+      "lon": 14.3435318,
+      "tags": {
+        "addr:city": "Massa Lubrense",
+        "amenity": "police",
+        "name": "Polizia Locale",
+        "operator": "Polizia Locale",
+        "operator:wikidata": "Q61634147",
+        "operator:wikipedia": "it:Polizia locale (Italia)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10816126463,
+      "lat": 41.0186306,
+      "lon": 14.1203554,
+      "tags": {
+        "addr:city": "Casal di Principe",
+        "addr:postcode": "81033",
+        "addr:street": "Via Madrano",
+        "amenity": "police",
+        "name": "Polizia Locale",
+        "operator": "Comune di Casal di Principe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10816169519,
+      "lat": 41.0083916,
+      "lon": 14.1115302,
+      "tags": {
+        "addr:city": "Casal di Principe",
+        "addr:housenumber": "12",
+        "addr:postcode": "81033",
+        "addr:street": "Via Casella A.",
+        "amenity": "police",
+        "name": "Commissariato P.S. di Casal di Principe",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10951896105,
+      "lat": 40.9505223,
+      "lon": 14.2541983,
+      "tags": {
+        "amenity": "police",
+        "name": "Stazione Carabinieri di Sant'Arpino",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11001913292,
+      "lat": 41.0118491,
+      "lon": 14.4808185,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia Municipale",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11694099443,
+      "lat": 41.0389939,
+      "lon": 14.3825476,
+      "tags": {
+        "addr:city": "Maddaloni",
+        "addr:postcode": "81024",
+        "addr:street": "Corso I Ottobre",
+        "amenity": "police",
+        "name": "Polizia Municipale di Maddaloni"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12367912254,
+      "lat": 40.8820064,
+      "lon": 14.271251,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia Municipale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12639044500,
+      "lat": 40.904946,
+      "lon": 14.1859837,
+      "tags": {
+        "amenity": "police",
+        "name": "Stazione Carabinieri Calvizzano",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12708370766,
+      "lat": 41.0693962,
+      "lon": 14.0362545,
+      "tags": {
+        "amenity": "police",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12794272189,
+      "lat": 40.9003347,
+      "lon": 14.1918534,
+      "tags": {
+        "amenity": "police",
+        "name": "Stazione Carabinieri Marano",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "operator:wikipedia": "it:Arma dei Carabinieri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13081434980,
+      "lat": 40.8627313,
+      "lon": 14.1765551,
+      "tags": {
+        "amenity": "police",
+        "name": "Commissariato di PS Pianura",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13085552752,
+      "lat": 40.966088,
+      "lon": 14.2061137,
+      "tags": {
+        "addr:city": "Aversa",
+        "addr:housenumber": "42",
+        "addr:postcode": "81031",
+        "addr:street": "Viale degli Artisti",
+        "amenity": "police",
+        "name": "Carabinieri di Aversa",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "phone": "+39 0819791500"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13097192183,
+      "lat": 40.9652361,
+      "lon": 14.1910845,
+      "tags": {
+        "addr:city": "Lusciano",
+        "addr:housenumber": "28",
+        "addr:postcode": "81030",
+        "addr:street": "Viale Alessandro Manzoni",
+        "amenity": "police",
+        "name": "Carabinieri di Lusciano",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "phone": "+39 081 8145293"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13165028554,
+      "lat": 41.0366873,
+      "lon": 14.3011174,
+      "tags": {
+        "addr:city": "Marcianise",
+        "addr:housenumber": "43",
+        "addr:postcode": "81025",
+        "addr:street": "Piazza Caduti di Nassyria",
+        "amenity": "police",
+        "name": "Comune di Marcianise Polizia Municipale",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "phone": "+39 0823 635201",
+        "website": "https://www.poliziamunicipale.it/comune/194/marcianise"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13315329307,
+      "lat": 40.8456062,
+      "lon": 14.224845,
+      "tags": {
+        "addr:city": "Napoli",
+        "addr:housenumber": "7",
+        "addr:postcode": "80128",
+        "addr:street": "Via Vincenzo Gemito",
+        "amenity": "police",
+        "check_date": "2025-11-09",
+        "name": "Carabinieri Comando Compagnia Vomero",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852",
+        "website": "https://www.carabinieri.it/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13404462648,
+      "lat": 40.8064323,
+      "lon": 14.1927567,
+      "tags": {
+        "addr:city": "Napoli",
+        "addr:housenumber": "249",
+        "addr:postcode": "80123",
+        "addr:street": "Via Alessandro Manzoni",
+        "amenity": "police",
+        "email": "dipps151.0600@pecps.poliziadistato.it",
+        "fax": "0815983236",
+        "name": "Commissariato Napoli Posillipo",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817",
+        "operator:wikipedia": "it:Polizia di Stato",
+        "phone": "+39 081 598 3211",
+        "website": "https://questure.poliziadistato.it/it/servizio/commissariati/5730dc9d1d37c715746424"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13404465574,
+      "lat": 40.8327657,
+      "lon": 14.2203669,
+      "tags": {
+        "amenity": "police",
+        "name": "Carabinieri - Comando Stazione Napoli Posillipo",
+        "opening_hours": "24/7",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13404465581,
+      "lat": 40.8452935,
+      "lon": 14.2449091,
+      "tags": {
+        "addr:city": "Napoli",
+        "addr:housenumber": "21",
+        "addr:postcode": "80134",
+        "addr:street": "Via Santa Lucia al Monte",
+        "amenity": "police",
+        "check_date": "2025-12-25",
+        "contact:email": "comm.montecalvario.na@pecps.poliziadistato.it",
+        "contact:phone": "+39 081 7903611",
+        "name": "Commissariato Napoli Montecalvario",
+        "opening_hours": "Mo-Su 08:00-14:00",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13411406652,
+      "lat": 40.8380287,
+      "lon": 14.242062,
+      "tags": {
+        "amenity": "police",
+        "name": "Carabinieri - Stazione Quartieri Spagnoli",
+        "operator": "Arma dei Carabinieri",
+        "operator:short": "Carabinieri",
+        "operator:wikidata": "Q54852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13429451010,
+      "lat": 40.8323113,
+      "lon": 14.2462246,
+      "tags": {
+        "amenity": "police",
+        "name": "Polizia di Stato 4° Reparto Mobile e RPC \"Campania\"",
+        "operator": "Polizia di Stato",
+        "operator:wikidata": "Q897817"
+      }
+    }
+  ]
+}
